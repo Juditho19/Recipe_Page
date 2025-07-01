@@ -24,8 +24,9 @@ Users should be able to:
 - See the correct layout, spacing, fonts, and colours as in the design
 
 ### Screenshot
-![screenshot1](https://github.com/user-attachments/assets/7f642789-35ad-4a74-9156-5f1e35aa2746)
-![screenshot2](https://github.com/user-attachments/assets/93616461-bc66-4109-8f52-774d1b084592)
+
+![screenshot1](https://github.com/user-attachments/assets/af6a92f5-1b24-465b-a39d-267c7b1b58b7)
+![screenshot2](https://github.com/user-attachments/assets/114b9c9f-c26a-415d-a29c-cd349f7c0675)
 
 
 
