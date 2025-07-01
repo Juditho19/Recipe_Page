@@ -24,9 +24,11 @@ Users should be able to:
 - See the correct layout, spacing, fonts, and colours as in the design
 
 ### Screenshot
+![screenshot1](https://github.com/user-attachments/assets/7f642789-35ad-4a74-9156-5f1e35aa2746)
+![screenshot2](https://github.com/user-attachments/assets/93616461-bc66-4109-8f52-774d1b084592)
 
-![Desktop View](./assets/images/screenshot1.png)  
-![Mobile View](./assets/images/screenshot2.png)
+
+
 
 ### Links
 
@@ -61,6 +63,7 @@ Example of a mobile-first adjustment:
     border-radius: 0%;
   }
 }
+```
 
 
 ### Continued development
