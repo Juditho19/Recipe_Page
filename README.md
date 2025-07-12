@@ -25,8 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot1](https://github.com/user-attachments/assets/af6a92f5-1b24-465b-a39d-267c7b1b58b7)
-![screenshot2](https://github.com/user-attachments/assets/114b9c9f-c26a-415d-a29c-cd349f7c0675)
+
+<img width="1349" height="1830" alt="Screenshot 2025-07-12 at 14-37-37 Recipe Page" src="https://github.com/user-attachments/assets/0816e5b7-8705-4ba3-8473-1f7e118d4650" />
+
+
+<img width="433" height="1826" alt="Screenshot 2025-07-12 at 14-37-52 Recipe Page" src="https://github.com/user-attachments/assets/195754a0-1c4f-4f86-9207-63b66664318a" />
+
 
 
 
